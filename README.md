@@ -1,19 +1,19 @@
 # FileUtils
 ![projectstage](https://img.shields.io/badge/project%20stage-alpha-yellow)
 ![projectstage](https://img.shields.io/badge/version-1.0-yellow)
-[![license](https://img.shields.io/github/license/PentagonLP/fileutils)](https://github.com/PentagonLP/fileutils/blob/main/LICENSE)
-[![issues](https://img.shields.io/github/issues/PentagonLP/fileutils)](https://github.com/PentagonLP/fileutils/issues)<br>
-[![contributors](https://img.shields.io/github/contributors/PentagonLP/fileutils)](https://github.com/PentagonLP/fileutils/graphs/contributors)
-[![activity](https://img.shields.io/github/commit-activity/m/PentagonLP/fileutils)](https://github.com/PentagonLP/fileutils/commits/main)
-[![lastcommit](https://img.shields.io/github/last-commit/PentagonLP/fileutils)](https://github.com/PentagonLP/fileutils/commits/main)<br>
-![size](https://img.shields.io/github/languages/code-size/PentagonLP/fileutils)
-![files](https://img.shields.io/github/directory-file-count/PentagonLP/fileutils)
-![languages](https://img.shields.io/github/languages/count/PentagonLP/fileutils)<br>
+[![license](https://img.shields.io/github/license/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/issues)<br>
+[![contributors](https://img.shields.io/github/contributors/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/graphs/contributors)
+[![activity](https://img.shields.io/github/commit-activity/m/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/commits/main)
+[![lastcommit](https://img.shields.io/github/last-commit/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/commits/main)<br>
+![size](https://img.shields.io/github/languages/code-size/Pentagcomputercraft-package-toolonLP/fileutils)
+![files](https://img.shields.io/github/directory-file-count/computercraft-package-tool/fileutils)
+![languages](https://img.shields.io/github/languages/count/computercraft-package-tool/fileutils)<br>
 
 Library for the Minecraft mod **ComputerCraft/CC: Tweaked** for better interaction with files  
 
 ## How to install 
-FileUtils can be installed using the [ComputerCraft Package Tool](https://github.com/PentagonLP/ccpt) by using the following commands:
+FileUtils can be installed using the [ComputerCraft Package Tool](https://github.com/computercraft-package-tool/ccpt) by using the following commands:
 
 Install CCPT, only run if you havn't installed it yet:
 ```
@@ -38,7 +38,7 @@ hi, how are you?
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/file_exists.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/file_exists.png"
 /><br>  
 
 ### **2. Store some content in a file**  
@@ -48,7 +48,7 @@ The function **storeFile([filepath],[content])** stores [content], given as a st
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/storeFile.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/storeFile.png"
 /><br> 
 Content of *"test"*:
 ```
@@ -65,21 +65,21 @@ hi, how are you?
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readFileFalseExists.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readFileFalseExists.png"
 /><br> 
 2) *"test"* does not exist.
 
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readFileFalseMissing.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readFileFalseMissing.png"
 /><br> 
 3) *"test"* does not exist.
 
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readFileTrueMissing.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readFileTrueMissing.png"
 /><br> 
 Content of *"test"*:
 ```
@@ -93,7 +93,7 @@ The function **storeData([filepath],[content])** stores [content], given as a ta
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/storeData.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/storeData.png"
 /><br> 
 Content of *"test"*:
 ```lua
@@ -109,21 +109,21 @@ The function **readFile([filepath],[createnew])** reads a file specified by the 
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readDataFalseExists.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readDataFalseExists.png"
 /><br> 
 2) *"test"* does not exist.
 
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readDataFalseMissing.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readDataFalseMissing.png"
 /><br> 
 3) *"test"* does not exist.
 
 Example code and output:
 <br><img
     alt="missing image :("
-    src="https://raw.githubusercontent.com/PentagonLP/fileutils/main/img/readDataTrueMissing.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/img/readDataTrueMissing.png"
 /><br> 
 Content of *"test"*:
 ```

@@ -1,11 +1,11 @@
 {   
 	name = "Fileutils",
 	comment = "Library to read/write files",
-	author = "PentagonLP",
-	website = "https://github.com/PentagonLP/fileutils/",
+	author = "CCPT",
+	website = "https://github.com/computercraft-package-tool/fileutils/",
 	newestversion = "1.0",
 	install = {
-		url = "https://raw.githubusercontent.com/PentagonLP/fileutils/main/fileutils",
+		url = "https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/fileutils",
 		filename = "fileutils",
 		type = "library",
 	},
