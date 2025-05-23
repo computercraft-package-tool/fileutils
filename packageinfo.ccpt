@@ -5,7 +5,7 @@
 	website = "https://github.com/computercraft-package-tool/fileutils/",
 	newestversion = "1.0",
 	install = {
-		url = "https://raw.githubusercontent.com/computercraft-package-tool/fileutils/main/fileutils",
+		url = "https://github.com/computercraft-package-tool/fileutils/releases/download/v1.0/fileutils.lua",
 		filename = "fileutils",
 		type = "library",
 	},
