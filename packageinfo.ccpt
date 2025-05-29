@@ -3,9 +3,9 @@
 	comment = "Library to read/write files",
 	author = "CCPT",
 	website = "https://github.com/computercraft-package-tool/fileutils/",
-	newestversion = "1.0",
+	newestversion = "1.1",
 	install = {
-		url = "https://github.com/computercraft-package-tool/fileutils/releases/download/v1.0/fileutils.lua",
+		url = "https://github.com/computercraft-package-tool/fileutils/releases/download/v1.1/fileutils.lua",
 		filename = "fileutils.lua",
 		type = "library",
 	},

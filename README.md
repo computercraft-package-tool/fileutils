@@ -1,6 +1,6 @@
 # FileUtils
-![projectstage](https://img.shields.io/badge/project%20stage-alpha-yellow)
-![projectstage](https://img.shields.io/badge/version-1.0-yellow)
+![projectstage](https://img.shields.io/badge/project%20stage-release-green)
+![projectstage](https://img.shields.io/badge/version-1.1-green)
 [![license](https://img.shields.io/github/license/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/blob/main/LICENSE)
 [![issues](https://img.shields.io/github/issues/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/issues)<br>
 [![contributors](https://img.shields.io/github/contributors/computercraft-package-tool/fileutils)](https://github.com/computercraft-package-tool/fileutils/graphs/contributors)
